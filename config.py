@@ -4,7 +4,7 @@ author: Barnett
 '''
 
 
-USERACCOUNT = '1306513796@qq.com'
-ACCOUNTPWD = 'xxf1521884206'
+USERACCOUNT = 'youraccount'
+ACCOUNTPWD = 'yourpwd'
 
 
